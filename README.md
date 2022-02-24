@@ -7,3 +7,6 @@ sudo nano /etc/ssh/sshd_config
 sudo service sshd restart
 sudo ufw allow 포트번호
 ```
+계정 만들기 참고
+
+https://www.nemonein.xyz/2019/10/2611/
